@@ -7,7 +7,7 @@ class Main {
             if (n1 > n2) {
                 n1 = n1 - n2;  // Subtract the smaller number from the larger
             } else {
-                n2 = n2 - n1;  // Subtract the smaller number from the larger
+                n2 = n2 - n1;  // Subtract the larger number from the smaller
             }
         }
 
